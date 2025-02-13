@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there!
+### I'm Gaspar...
+#### An aspiring full-stack developer
 
 <!--
 **gasparc-101/gasparc-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* I currently use : `.html`, `css`, `.js`, `ejs`.
+* I'm currently working on a link **shortening** website.
+* I'm activelly enhancing my skills in figma.
+* Frameworks and tools: jQuery, Bootstrap, Node.js + express.js
