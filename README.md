@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* ⚙️ I currently use : `.html`, `css`, `.js`, `ejs`.
+* ⚙️ I currently use : `.html`, `css`, `.js`, `.ejs`.
 * 👨🏾‍💻 I'm currently working on a link **shortening** website.
 * 🖌️ I'm activelly enhancing my skills in figma.
 * 🔰 Frameworks and tools: jQuery, Bootstrap, Node.js + express.js.
