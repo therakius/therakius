@@ -1,10 +1,3 @@
-<style>
-    pre code {
-        white-space: pre-wrap;
-        word-break: break-word;
-    }
-</style>
-
 ```js wrap
 const human = {
     name: "Gaspar Mario Chichava",
