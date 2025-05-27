@@ -1,4 +1,4 @@
-```js
+```js wrap
 const human = {
     name: "Gaspar Mario Chichava",
     occupation: "Full-Stack Developer",
