@@ -3,7 +3,7 @@
         name: "Gaspar Mario Chichava",
         occupation: "Full-Stack Developer",
         location: "Maputo, Mozambique",
-        availability: ['On-site', 'Remote']
+        availability: ['On-site', 'Remote'],
 
         tech_stack: {
             languages: ['html', 'css', 'JavaScript', 'Uml'],
