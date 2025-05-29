@@ -1,5 +1,5 @@
-Hello there 👋  
-I'm a self-taught Web Developer focused on backend and APIs
+### Hello there 👋  
+I'm a *self-taught Web Developer* focused on backend and APIs
 
 * 🧠 Currently focused on: Node.js, RESTful APIs, MySQL & PostgreSQL  
 * 🛠️ I use daily: `.js`, `.html`, `.css`, `.ejs`, `.sql`, `.md`, `.* bash`  
