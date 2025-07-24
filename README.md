@@ -8,9 +8,9 @@ I'm a *self-taught Web Developer* focused on backend and APIs
 
 📌 Currently working on
 
-* 📁 [`moz-demog-api`](https://github.com/gasparc-101/moz-demog-api) – Demographic API for Mozambique using public INE data  
-* 📁 [`cortio.so`](https://github.com/gasparc-101/cortio.so) – A clean, privacy-friendly URL shortener  
-* 📁 [`j-arkham`](https://github.com/gasparc-101/j-arkham) – A portfolio website for a fictional digital marketing agent
-* 📁 [`G-Portfolio`](https://github.com/gasparc-101/g-portfolio) – A portfolio website for myself
+* 📁 [`moz-demog-api`](https://github.com/therakius/moz-demog-api) – Demographic API for Mozambique using public INE data  
+* 📁 [`cortio.so`](https://github.com/therakius/cortio.so) – A clean, privacy-friendly URL shortener  
+* 📁 [`j-arkham`](https://github.com/therakius/j-arkham) – A portfolio website for a fictional digital marketing agent
+* 📁 [`G-Portfolio`](https://github.com/therakius/g-portfolio) – A portfolio website for myself
   
 💬 Ping me about backend development, learning to code solo, or building simple and useful projects
